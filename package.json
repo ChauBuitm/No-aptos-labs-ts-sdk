@@ -9,5 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+     "@aptos-labs/ts-sdk": "^1.9.1"
   }
 }
